@@ -1,0 +1,6 @@
+.color1{
+    display:flexbox; 
+    flex-direction: row;
+    color:orchid;
+    background-color:aquamarine; 
+}

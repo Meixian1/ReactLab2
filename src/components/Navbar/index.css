@@ -1,0 +1,6 @@
+.fontSize{
+    display: flex; 
+    flex-direction: row;
+    font-size: 40px;
+    
+}
